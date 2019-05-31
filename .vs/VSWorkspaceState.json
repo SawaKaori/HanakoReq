@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\frontend",
+    "\\frontend\\components",
+    "\\frontend\\pages"
+  ],
+  "SelectedNode": "\\frontend\\components\\EditCommentDialog.vue",
+  "PreviewInSolutionExplorer": false
+}
